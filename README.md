@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @charoxas
+- 👀 I’m interested in data analytics
+- 🌱 I’m currently learning data analytics, and hoping to get a professional certificate
